@@ -1,1 +1,1 @@
-### An essay for an e-learning coding course with paths and more ideas.
+### An essay for an e-learning platform that includes paths and additional courses.
